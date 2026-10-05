@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johnnyb2543
-- 👀 I’m interested in C++ development opportunities.
-- 🌱 I’m currently learning to polish my C++ code writing patterns.
+- 👀 I’m interested in software development opportunities.
 - 💞️ I’m looking to collaborate on low level projects.
 - 📫 How to reach me @johnnyb2543
 
